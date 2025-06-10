@@ -1,3 +1,10 @@
-name = "hono-cloudflare"
-main = "src/index.ts"
+name = "Backend"
 compatibility_date = "2024-06-10"
+
+[vars]
+DATABASE_URL="connection-pooll url"
+
+
+
+
+ddont commit as there are sensitive keys...
